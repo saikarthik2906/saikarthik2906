@@ -3,11 +3,11 @@
 </h1>
 
 <h3 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=Developer;Tech+Enthusiast;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=🎨+Full+Stack+Developer;🚀+Tech+Enthusiast;📚+Always+Learning" alt="Typing SVG" />
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saikarthik2906&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=saikarthik2906&label=PROFILE+VIEWS&color=gradient&style=for-the-badge" />
 </p>
 
 <p align="center">
@@ -23,15 +23,57 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
 
-## 🚀 Tech Stack
+## 🚀 My Tech Universe
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=java,mysql,py,js,html,css,spring,react,fastapi,git,github,postgres,aws,figma,canva&perline=10"/>
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Languages-Gradient-orange?style=for-the-badge" /><br/>
+  <img src="https://skillicons.dev/icons?i=java,py,js,html,css&theme=dark" />
+  <br/><br/>
+  
+  <!-- Frameworks & Libs -->
+  <img src="https://img.shields.io/badge/Frameworks%20%26%20Libraries-Gradient-purple?style=for-the-badge" /><br/>
+  <img src="https://skillicons.dev/icons?i=spring,react,fastapi&theme=dark" />
+  <br/><br/>
+  
+  <!-- Databases & Cloud -->
+  <img src="https://img.shields.io/badge/Databases%20%26%20Cloud-Gradient-blue?style=for-the-badge" /><br/>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,aws&theme=dark" />
+  <br/><br/>
+  
+  <!-- Tools & Design -->
+  <img src="https://img.shields.io/badge/Tools%20%26%20Design-Gradient-green?style=for-the-badge" /><br/>
+  <img src="https://skillicons.dev/icons?i=git,github,figma,canva&theme=dark" />
 </div>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 </p>
+
+## 📊 Git-Stats Dashboard
+
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=saikarthik2906&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      </td>
+      <td>
+        <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=saikarthik2906&theme=radical"/>
+      </td>
+    </tr>
+  </table>
+  <br/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saikarthik2906&layout=compact&theme=radical&langs_count=6"/>
+</div>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</p>
+
+## ⚡ Fun Fact About Me
+* 💻 I love transforming complex coffee molecules into clean, structured code.
+* 🌈 Color pallets and beautiful UI themes are my absolute weakness!
