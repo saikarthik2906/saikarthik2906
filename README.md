@@ -26,15 +26,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </p>
 
-## 💫 About Me
-
-* 🎓 **Education:** B.Tech in Computer Science & Engineering (Blockchain Technology) at **Vellore Institute of Technology (VIT)**.
-* 🚀 **Passions:** Building robust enterprise backends, orchestrating smart document-matching engines, and bridging the gap between clean UI/UX and scalable databases.
-* 🛠️ **Experience:** Former UI/UX Design Intern at ValsCo Technology; transitioning those design systems straight into full-stack architecture.
-* 💬 **Ask me about:** Java (Spring Boot), Python (FastAPI), React.js, and automated workflow logic.
-
----
-
 ## 🚀 Tech Stack
 
 ### 💻 Languages & Frontend
@@ -52,41 +43,4 @@
   <img src="https://skillicons.dev/icons?i=aws,git,github,figma,canva" />
 </p>
 
----
-
-## 🛠️ Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>💼 Employee Leave Management System</h3>
-      <img src="https://skillicons.dev/icons?i=spring,react,mysql,js" size="14" alt="tech stack" /><br><br>
-      Full-stack enterprise application featuring custom role-based access controls (RBAC) and JWT authentication.
-      <ul>
-        <li>Secure API endpoints with Spring Security</li>
-        <li>Analytical dashboard with interactive React tracking</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🤖 AI Conversational Loan Agent</h3>
-      <img src="https://skillicons.dev/icons?i=py,fastapi" alt="tech stack" /><br><br>
-      Automated BFSI process microservice for underwriting, risk evaluation, and data audit compliance.
-      <ul>
-        <li>Asynchronous pipelines utilizing FastAPI</li>
-        <li>Dynamic, verified PDF document generation</li>
-      </ul>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🔄 Three-Way Match Validation Engine</h3>
-      <img src="https://skillicons.dev/icons?i=nodejs,mongodb" alt="tech stack" /><br><br>
-      Algorithmic document cross-verification system parsing Purchase Orders, GRNs, and Invoices.
-      <ul>
-        <li>Converted raw data into heavily structured JSON validation workflows</li>
-        <li>Optimized document parsing handling custom tolerance business logic</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 <h3 align="center">🤝 Let's connect and build something awesome together!</h3>
