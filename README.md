@@ -28,9 +28,9 @@
 
 ## 🚀 Tech Stack
 
-<p align="center">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=java,mysql,py,js,html,css,spring,react,fastapi,git,github,postgres,aws,figma,canva&perline=10"/>
-</p>
+</div>
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
