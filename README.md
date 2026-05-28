@@ -26,7 +26,6 @@
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
 </p>
 
-## 🚀 Tech Stack
 
 ## 🚀 Tech Stack
 
