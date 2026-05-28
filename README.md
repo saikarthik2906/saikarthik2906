@@ -7,17 +7,17 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=saikarthik2906&label=Profile%20Views&color=ff69b4&style=for-the-badge" />
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN">
+  <a href="https://linkedin.com/in/saikarthik2906">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:YOUR_GMAIL">
+  <a href="mailto:saikarthik2906@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/YOUR_USERNAME">
+  <a href="https://github.com/saikarthik2906">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -34,10 +34,4 @@
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
-## ✨ Daily Motivation
-
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Playfair+Display&weight=700&size=24&pause=1500&color=F79F1A&center=true&vCenter=true&width=600&lines=%22It+always+seems+impossible...%22;%22...until+it's+done.%22" alt="Quote SVG" />
 </p>
