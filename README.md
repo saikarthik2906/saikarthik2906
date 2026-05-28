@@ -89,22 +89,4 @@
     </td>
   </tr>
 </table>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saikarthik2906&show_icons=true&theme=tokyonight&count_private=true" alt="Sai Karthik's GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saikarthik2906&theme=tokyonight" alt="Sai Karthik's Streak Stats" width="48%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-top-langs.vercel.app/api/?username=saikarthik2906&layout=compact&theme=tokyonight" alt="Top Languages" width="50%"/>
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="80%">
-</p>
-
 <h3 align="center">🤝 Let's connect and build something awesome together!</h3>
